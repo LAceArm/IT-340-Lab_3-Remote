@@ -1,0 +1,31 @@
+commit 4aca5ca4a34210987d617355eec38654b8195991
+Author: LArmAce <lacevedogalvez@gmail.com>
+Date:   Fri Sep 19 11:14:57 2025 -0400
+
+    Revert "Adding another file"
+    
+    This reverts commit 33081e9f4c92d7101607bcd111c25cddd770709a.
+
+commit 33081e9f4c92d7101607bcd111c25cddd770709a
+Author: LArmAce <lacevedogalvez@gmail.com>
+Date:   Fri Sep 19 11:14:15 2025 -0400
+
+    Adding another file
+
+commit f8ed34a7b51aae0ca6a521e14ffb26cf1756d2bf
+Author: LArmAce <lacevedogalvez@gmail.com>
+Date:   Fri Sep 19 11:12:38 2025 -0400
+
+    Adding a comment to hostname
+
+commit 4cbadd5cb2ceb1012e35d28c250fdf6408057d1e
+Author: LArmAce <lacevedogalvez@gmail.com>
+Date:   Fri Sep 19 10:39:02 2025 -0400
+
+    Adding a message to os-release
+
+commit b3a0c3946bf060ca91abfe5c4f150611dd8d7461
+Author: LArmAce <lacevedogalvez@gmail.com>
+Date:   Fri Sep 19 10:35:55 2025 -0400
+
+    Initial Commit
